@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task-trakker-without-db/static/css/main.eeba698e.css",
+    "main.js": "/task-trakker-without-db/static/js/main.2d9460b0.js",
+    "static/js/787.65b282e3.chunk.js": "/task-trakker-without-db/static/js/787.65b282e3.chunk.js",
+    "index.html": "/task-trakker-without-db/index.html",
+    "main.eeba698e.css.map": "/task-trakker-without-db/static/css/main.eeba698e.css.map",
+    "main.2d9460b0.js.map": "/task-trakker-without-db/static/js/main.2d9460b0.js.map",
+    "787.65b282e3.chunk.js.map": "/task-trakker-without-db/static/js/787.65b282e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeba698e.css",
+    "static/js/main.2d9460b0.js"
+  ]
+}
